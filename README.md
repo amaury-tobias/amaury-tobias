@@ -17,14 +17,16 @@ const amaury = {
     mobileApp: ["Swift"],
     frontEnd: {
       js: ["Vue", "Nuxt"],
-      css: ["tailwind", "bulma", "sass", "postCss"],
+      css: ["tailwind", "bulma", "postCss"],
     },
     backEnd: {
       js: ["node", "Express", "Koa"],
-      Go: ["Fiber", "Gin", "Echo"],
+      Go: ["Fiber", "Wails"],
     },
+    communication: "gRPC",
     devOps: ["Docker🐳", "Nginx"],
-    databases: ["mongo", "MySql", "MSSQL"],
+    databases: ["Mongo", "MySql", "MSSQL"],
+    "ci/cd": "Github Actions",
   },
   currentProject: "I am developing internal software, web/desktop",
 };

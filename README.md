@@ -2,8 +2,6 @@
 
 <img align='right' src="https://media.giphy.com/media/1fhj0MeSo8MSjVxCVs/giphy.gif" width="230">
 
-_Web Full Stack Developer_ at [Grupo GarSa](https://www.grupogarsa.com/)
-
 [![Twitter: amaury_tobias](https://img.shields.io/twitter/follow/amaury_tobias?style=for-the-badge&logo=twitter&color=blue)](https://twitter.com/amaury_tobias)
 [![GitHub Amaury](https://img.shields.io/github/followers/amaury-tobias?label=follow&style=for-the-badge&logo=github)](https://github.com/amaury-tobias)
 [![GitHub Amaury](https://img.shields.io/badge/FOLLOW-Amaury-blue?label=follow&style=for-the-badge&logo=mastodon)](https://mstdn.mx/@amaury_tobias)

@@ -15,7 +15,7 @@ const amaury = {
   "backend": ["JS", "GO", "C#"],
   "tools": ["Docker", "Git", "BASH"],
   "databases": ["Mongo", "MySql", "MSSQL", "PGSQL"],
-  "learning": ["Rust", "Electron],
+  "learning": ["Rust", "Electron"],
 };
 ```
 

@@ -1,6 +1,4 @@
-## Hi, I'm Amaury Tobias! <img src="https://media.giphy.com/media/VJlmzYdEw9luuxQlrf/giphy.gif" width="50">
-
-<img align='right' src="https://media.giphy.com/media/1fhj0MeSo8MSjVxCVs/giphy.gif" width="230">
+## Hi, I'm Amaury Tobias!
 
 [![Twitter: amaury_tobias](https://img.shields.io/twitter/follow/amaury_tobias?style=for-the-badge&logo=twitter&color=blue)](https://twitter.com/amaury_tobias)
 [![GitHub Amaury](https://img.shields.io/github/followers/amaury-tobias?label=follow&style=for-the-badge&logo=github)](https://github.com/amaury-tobias)
@@ -8,25 +6,16 @@
 
 ```javascript
 const amaury = {
-  pronouns: "He" | "Him",
-  code: ["Javascript", "Typescript", "Java", "Go"],
-  askMeAbout: ["web dev", "tech", "app dev", "anything"],
-  technologies: {
-    mobileApp: ["Swift"],
-    frontEnd: {
-      js: ["Vue", "Nuxt"],
-      css: ["tailwind", "bulma", "postCss"],
-    },
-    backEnd: {
-      js: ["node", "Express", "Koa"],
-      Go: ["Fiber", "Wails"],
-    },
-    communication: "gRPC",
-    devOps: ["Docker🐳", "Nginx"],
-    databases: ["Mongo", "MySql", "MSSQL"],
-    "ci/cd": "Github Actions",
+  "pronouns": "He" | "Him",
+  "ask_me_about": ["development", "tech", "books", "movies"],
+  "frontend": {
+    "js": ["Vue", "Nuxt", "React"],
+    "css": ["WindiCSS", "PostCSS", "SASS"],
   },
-  currentProject: "I am developing internal software, web/desktop",
+  "backend": ["JS", "GO", "C#"],
+  "tools": ["Docker", "Git", "BASH"],
+  "databases": ["Mongo", "MySql", "MSSQL", "PGSQL"],
+  "learning": ["Rust", "Electron],
 };
 ```
 
